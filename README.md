@@ -3,7 +3,7 @@ AS3-DecisionTree
 
 A simple implementation of a decision tree in Actionscript 3
 
-Basic useage:
+Basic usage:
 
 var branch:Branch;
 branch = new Branch("1", "Do you eat meat?", [new Fork("1.1", "yes"), new Fork("1.2", "no")], doChoice);
