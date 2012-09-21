@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b11b480b-41d2-48b8-a340-a4e9054d47a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/DecisionTree.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/playerProductInstall.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/DecisionTree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/history/history.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/history/history.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/history/historyFrame.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/DecisionTree/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DecisionTree.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -495,7 +488,11 @@
       <created>1348266560088</created>
       <updated>1348266560088</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tracking remote branch">
+      <created>1348266809671</created>
+      <updated>1348266809671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,7 +558,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="First pass at the decision tree." />
+    <option name="LAST_COMMIT_MESSAGE" value="tracking remote branch" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -575,6 +572,7 @@
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="First pass at the decision tree." />
+    <MESSAGE value="tracking remote branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
